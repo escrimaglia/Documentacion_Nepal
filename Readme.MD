@@ -29,6 +29,8 @@ Los videos pueden bajarse, estan disponible en distintas resoluciones, o pueden 
 - Webinar sobre NEP@L 26/9/2019  
   <https://preview.hs-sites.com/_hcms/preview/content/15169165031?portalId=6348155&_preview=true&cacheBust=1570134785109&preview_key=DMCaQPdK&from_buffer=false>  
 
+- Toda la información sobre NEP@L: <https://www.la.logicalis.com/solutions--services/nepal/por-que-automatizar/>
+
 ## Instalacion  
 
 1) Acceder a <https://github.com/escrimaglia/Documentacion_Nepal>  
