@@ -16,7 +16,7 @@ Directorio ppts:
 - Principios Automatización y Programabilidad: Conceptos sobre Automatización y Programabilid  
 - Cultura de Automatizaci�ón: Documento sobre como promover una cultura de automatizaci�ón  
 
-## Directorio Videos 
+## Directorio Videos
 
 Los videos pueden bajarse, estan disponible en distintas resoluciones, o pueden verse directamente desde youtube.
 
