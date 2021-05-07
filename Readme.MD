@@ -32,7 +32,7 @@ Los videos pueden bajarse, estan disponible en distintas resoluciones, o pueden 
 ## Instalacion  
 
 1) Acceder a <https://github.com/escrimaglia/Documentacion_Nepal>  
-2) Click on boton Code 
+2) Click on boton Code
 3) Descargar como zip (o en el formato preferido)  
 4) Descompactar  
 
