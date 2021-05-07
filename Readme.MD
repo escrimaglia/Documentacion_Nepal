@@ -1,38 +1,39 @@
-## Documentacion NEP@L  
+# Documentacion NEP@L  
 
 Directorio ppts:  
-- Presentacion NEP@L: PresentaciÃ³n sobre la arquietctura y funcionamiento de NEP@L  
-- Programmability Â& Services v10: Presentacion TIC ForumArgentina 2019  
 
-Directorio documentos:  
+- Presentacion NEP@L: PresentaciÃ³n sobre la arquietctura y funcionamiento de NEP@L  
+- Programmability ï¿½& Services v10: Presentacion TIC ForumArgentina 2019  
+
+## Directorio documentos  
+
 - NEP@L DataSheet: documento tÃ©cnico sobre NEP@L  
 - NEP@L at a glance  
 
-Directorio papers:  
+## Directorio papers  
+
 - Data Collection: uso de las librerias de Python Netmiko y Genie combinadas para obtener salidas estructurada de los comandos  
 - Principios AutomatizaciÃ³n y Programabilidad: Conceptos sobre AutomatizaciÃ³n y Programabilid  
-- Cultura de AutomatizaciÃÃ³n: Documento sobre como promover una cultura de automatizaciÃÃ³n  
+- Cultura de Automatizaciï¿½Ã³n: Documento sobre como promover una cultura de automatizaciï¿½Ã³n  
 
-Directorio Videos:  
+## Directorio Videos 
 
 Los videos pueden bajarse, estan disponible en distintas resoluciones, o pueden verse directamente desde youtube.
-- video explicativo sobre la arquitectura de NEP@L  
-  youtube: https://youtu.be/lsafIHiYig4  
-- video explicativo sobre la integración de NEP@L y Cisco ACI  
-  youtube: https://youtu.be/9G2bgBcKiJA  
-- video explicativo sobre la integración de NEP@L y Cisco NSO  
-  youtube: https://youtu.be/wB-3lFzWEFI  
-- Webinar sobre NEP@L 26/9/2019  
-  https://preview.hs-sites.com/_hcms/preview/content/15169165031?portalId=6348155&_preview=true&cacheBust=1570134785109&preview_key=DMCaQPdK&from_buffer=false  
 
+- video explicativo sobre la arquitectura de NEP@L  
+  youtube: <https://youtu.be/lsafIHiYig4>  
+- video explicativo sobre la integraciï¿½n de NEP@L y Cisco ACI  
+  youtube: <https://youtu.be/9G2bgBcKiJA>  
+- video explicativo sobre la integraciï¿½n de NEP@L y Cisco NSO  
+  youtube: <https://youtu.be/wB-3lFzWEFI>  
+- Webinar sobre NEP@L 26/9/2019  
+  <https://preview.hs-sites.com/_hcms/preview/content/15169165031?portalId=6348155&_preview=true&cacheBust=1570134785109&preview_key=DMCaQPdK&from_buffer=false>  
 
 ## Instalacion  
-1) Acceder a https://gitlab.com/Scrimaglia/documentacion-nepal.git  
+
+1) Acceder a <https://gitlab.com/Scrimaglia/documentacion-nepal.git>  
 2) Click on boton download (seguido a Web IDE)  
 3) Descargar como zip (o en el formato preferido)  
 4) Descompactar  
 
-
                             Ed Scrimaglia  
-
-
