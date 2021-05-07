@@ -1,0 +1,38 @@
+## Documentacion NEP@L  
+
+Directorio ppts:  
+- Presentacion NEP@L: Presentaci√≥n sobre la arquietctura y funcionamiento de NEP@L  
+- Programmability ¬& Services v10: Presentacion TIC ForumArgentina 2019  
+
+Directorio documentos:  
+- NEP@L DataSheet: documento t√©cnico sobre NEP@L  
+- NEP@L at a glance  
+
+Directorio papers:  
+- Data Collection: uso de las librerias de Python Netmiko y Genie combinadas para obtener salidas estructurada de los comandos  
+- Principios Automatizaci√≥n y Programabilidad: Conceptos sobre Automatizaci√≥n y Programabilid  
+- Cultura de Automatizaci√√≥n: Documento sobre como promover una cultura de automatizaci√√≥n  
+
+Directorio Videos:  
+
+Los videos pueden bajarse, estan disponible en distintas resoluciones, o pueden verse directamente desde youtube.
+- video explicativo sobre la arquitectura de NEP@L  
+  youtube: https://youtu.be/lsafIHiYig4  
+- video explicativo sobre la integraciÛn de NEP@L y Cisco ACI  
+  youtube: https://youtu.be/9G2bgBcKiJA  
+- video explicativo sobre la integraciÛn de NEP@L y Cisco NSO  
+  youtube: https://youtu.be/wB-3lFzWEFI  
+- Webinar sobre NEP@L 26/9/2019  
+  https://preview.hs-sites.com/_hcms/preview/content/15169165031?portalId=6348155&_preview=true&cacheBust=1570134785109&preview_key=DMCaQPdK&from_buffer=false  
+
+
+## Instalacion  
+1) Acceder a https://gitlab.com/Scrimaglia/documentacion-nepal.git  
+2) Click on boton download (seguido a Web IDE)  
+3) Descargar como zip (o en el formato preferido)  
+4) Descompactar  
+
+
+                            Ed Scrimaglia  
+
+
