@@ -14,7 +14,7 @@
 
 - Data Collection: uso de las librerias de Python Netmiko y Genie combinadas para obtener salidas estructurada de los comandos  
 - Principios Automatización y Programabilidad: Conceptos sobre Automatización y Programabilid  
-- Cultura de Automatizaci�ón: Documento sobre como promover una cultura de automatizaci�ón  
+- Cultura de Automatización: Documento sobre como promover una cultura de automatización  
 
 ## Directorio Videos
 
@@ -22,9 +22,9 @@ Los videos pueden bajarse, estan disponible en distintas resoluciones, o pueden 
 
 - video explicativo sobre la arquitectura de NEP@L  
   youtube: <https://youtu.be/lsafIHiYig4>  
-- video explicativo sobre la integraci�n de NEP@L y Cisco ACI  
+- video explicativo sobre la integración de NEP@L y Cisco ACI  
   youtube: <https://youtu.be/9G2bgBcKiJA>  
-- video explicativo sobre la integraci�n de NEP@L y Cisco NSO  
+- video explicativo sobre la integración de NEP@L y Cisco NSO  
   youtube: <https://youtu.be/wB-3lFzWEFI>  
 - Webinar sobre NEP@L 26/9/2019  
   <https://preview.hs-sites.com/_hcms/preview/content/15169165031?portalId=6348155&_preview=true&cacheBust=1570134785109&preview_key=DMCaQPdK&from_buffer=false>  
